@@ -28,6 +28,7 @@ function Explore() {
             />
             <p className='exploreCategoryName'>Places for sale</p>
           </Link>
+
         </div>
       </main>
     </div>
